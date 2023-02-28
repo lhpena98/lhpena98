@@ -1,6 +1,4 @@
-Hi there! 👋 I'm Luis Pena Trevino.
-
-I'm a computer engineering student interested in computer architecture, embedded systems, and FPGAs. Currently, I'm expanding my knowledge in compilers, SoC design, and automation. Currently doing research related to computer security and reliability.
+Computer engineering student interested in computer architecture, embedded systems, and FPGAs. Currently, I'm expanding my knowledge in compilers, SoC design, and automation. Currently doing research related to computer security and reliability.
 
 Interests
 

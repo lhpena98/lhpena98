@@ -1,6 +1,6 @@
-Computer engineering student interested in computer architecture, embedded systems, and FPGAs.
+EE student interested in VLSI design, Machine Learning, and EDA Tool development.
 
-Doing research related to computer security and reliability.
+Doing research related to ML in EDA.
 
 How to reach me
 

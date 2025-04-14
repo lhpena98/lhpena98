@@ -1,4 +1,4 @@
-EE student interested in VLSI design, Machine Learning, and EDA Tool development.
+EE Ph.D. student interested in VLSI design, Machine Learning, and EDA Tool development.
 
 Doing research related to ML in EDA.
 
